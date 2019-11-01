@@ -26,6 +26,7 @@ extern char tempMaps[rows][cols];
 
 
 void readerMap(){
+	box=0;
 	system("cls");
 	printf("····游戏加载中,请稍后····\n");
 	system("cls");
